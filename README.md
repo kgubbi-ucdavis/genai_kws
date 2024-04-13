@@ -1,6 +1,5 @@
-# genai_kws
+# genai_kws ABSTRACT
 4th AI-Generated Open-Source Silicon Design Challenge
-
 
 Generative AI for Energy-Efficient Keyword Spotting Hardware Accelerator Design
 
